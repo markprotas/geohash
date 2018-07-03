@@ -1,7 +1,7 @@
 import sys
 
 # Test the source tree, not an installed version.
-sys.path.insert(0, '../Geohash')
+sys.path.insert(0, '../geohash')
 
 import geohash
 
